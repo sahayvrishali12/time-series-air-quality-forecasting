@@ -102,5 +102,3 @@ MIT License
 ## 👤 Author
 
 **Vrishali**  
-Advanced Engineering Mathematics & Data Science Enthusiast  
-📧 *[Add your email or GitHub profile link]*
